@@ -1,0 +1,9 @@
+[submodule "Plantenna_2_Cloud"]
+	path = Plantenna_2_Cloud
+	url = https://github.com/Jeedella/Plantenna_2_Cloud
+[submodule "Plantenna_2_Gateway"]
+	path = Plantenna_2_Gateway
+	url = https://github.com/Jeedella/Plantenna_2_Gateway
+[submodule "Plantenna_2_Node"]
+	path = Plantenna_2_Node
+	url = https://github.com/Jeedella/Plantenna_2_Node
